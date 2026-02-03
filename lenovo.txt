@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello feature2 
+=======
+hii this is demo
+>>>>>>> master

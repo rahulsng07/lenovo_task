@@ -1,0 +1,3 @@
+#hii this is new 
+hii this is second commit in new.txt from feature2
+
